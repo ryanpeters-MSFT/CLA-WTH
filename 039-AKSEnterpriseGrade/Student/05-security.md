@@ -1,6 +1,6 @@
 # Challenge 05 - AKS Security
 
-[< Previous Challenge](./Challenge-04.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-06.md)
+[< Previous Challenge](./04-secrets.md) - **[Home](../README.md)** - [Optional Challenge >](./07-mesh.md)
 
 ## Introduction
 

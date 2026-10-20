@@ -1,6 +1,6 @@
 # Challenge 01 - Containers
 
-[< Previous Challenge](./Challenge-00.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-02.md)
+[< Previous Challenge](./00-setup.md) - **[Home](../README.md)** - [Next Challenge >](./02-networking.md)
 
 ## Introduction
 

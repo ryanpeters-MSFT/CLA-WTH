@@ -1,6 +1,6 @@
 # Challenge 04 - Secrets and Configuration Management
 
-[< Previous Challenge](./Challenge-03.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-05.md)
+[< Previous Challenge](./03-monitoring.md) - **[Home](../README.md)** - [Next Challenge >](./05-security.md)
 
 ## Introduction
 

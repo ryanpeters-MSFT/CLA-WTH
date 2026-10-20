@@ -1,6 +1,6 @@
 # Challenge 02 - AKS Network Integration and Private Clusters
 
-[< Previous Challenge](./Challenge-01.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-03.md)
+[< Previous Challenge](./01-containers.md) - **[Home](../README.md)** - [Next Challenge >](./03-monitoring.md)
 
 ## Introduction
 

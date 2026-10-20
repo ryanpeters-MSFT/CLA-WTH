@@ -1,6 +1,6 @@
 # Challenge 07 - Service Mesh
 
-[< Previous Challenge](./Challenge-06.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-08.md)
+[< Previous Challenge](./05-security.md) - **[Home](../README.md)**
 
 ## Introduction
 

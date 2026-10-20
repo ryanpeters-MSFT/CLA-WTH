@@ -1,6 +1,6 @@
 # Challenge 03 - AKS Monitoring
 
-[< Previous Challenge](./Challenge-02.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-04.md)
+[< Previous Challenge](./02-networking.md) - **[Home](../README.md)** - [Next Challenge >](./04-secrets.md)
 
 ## Introduction
 

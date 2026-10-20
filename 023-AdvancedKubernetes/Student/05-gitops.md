@@ -1,6 +1,6 @@
 # Challenge 5 - GitOps
 
-[< Previous Challenge](./04-scaling.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next Challenge>](./06-service-mesh.md)
+[< Previous Challenge](./04-scaling.md)
 
 ## Introduction
 
