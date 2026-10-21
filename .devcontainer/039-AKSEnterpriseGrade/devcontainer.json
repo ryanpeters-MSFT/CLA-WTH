@@ -9,6 +9,7 @@
     "cpus": 2
   },
   "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {},
     "ghcr.io/devcontainers/features/common-utils:2": {
       "username": "codespace"
     },
