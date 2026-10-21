@@ -28,7 +28,7 @@ These challenges have been specially developed for Clifton Larson Allen and cons
 - [Advanced Kubernetes](#advanced-kubernetes)
 - [AKS Enterprise-Grade](#aks-enterprise-grade)
 
-### Advanced Kubernetes
+## Advanced Kubernetes
 
 [Explore the hack](023-AdvancedKubernetes/README.md). Independent challenges covering advanced Kubernetes features and day-two operational practices; teams can prioritize the topics most relevant to them.
 
@@ -40,7 +40,7 @@ These challenges have been specially developed for Clifton Larson Allen and cons
 | [04: Scaling](023-AdvancedKubernetes/Student/04-scaling.md) | Configure resource requests, limits, and pod and cluster autoscaling, then validate scaling under load. |
 | [05: GitOps](023-AdvancedKubernetes/Student/05-gitops.md) | Use Flux or Argo CD to synchronize Kubernetes deployments with configuration stored in GitHub. |
 
-### AKS Enterprise-Grade
+## AKS Enterprise-Grade
 
 [Explore the hack](039-AKSEnterpriseGrade/README.md). Deploy and harden a three-tier application while exploring AKS networking, monitoring, security, and an optional service mesh challenge.
 
@@ -53,6 +53,25 @@ These challenges have been specially developed for Clifton Larson Allen and cons
 | [04: Secrets and Configuration Management](039-AKSEnterpriseGrade/Student/04-secrets.md) | Manage application settings with ConfigMaps and protect secrets using Azure Key Vault. |
 | [05: AKS Security](039-AKSEnterpriseGrade/Student/05-security.md) | Harden the application and cluster with network policies, node pool isolation, TLS ingress, and identity-based access. |
 | [07: Service Mesh (Optional)](039-AKSEnterpriseGrade/Student/07-mesh.md) | Use a service mesh to encrypt traffic between the application's ingress, web, and API components. |
+
+# Using GitHub Codespaces
+
+GitHub Codespaces provides a cloud-hosted development environment with the tools for these labs already configured. Launch your codespace from the [main CLA-WTH GitHub repository](https://github.com/ryanpeters-MSFT/CLA-WTH).
+
+1. In the repository, select **Code**, then the **Codespaces** tab.
+2. Open the **…** menu and select **New with options...** so you can choose the correct lab configuration.
+3. Under **Dev container configuration**, select the configuration for the lab you are working on:
+	- **023-AdvancedKubernetes** for the Advanced Kubernetes challenges.
+	- **039-AKSEnterpriseGrade** for the AKS Enterprise-Grade challenges.
+4. Review the remaining options and select **Create codespace**.
+
+Once the environment is ready, it opens a **Visual Studio Code IDE in your browser**, where you can edit files and run commands in the integrated terminal.
+
+## Work in Desktop Visual Studio Code
+
+You can also connect to the same codespace from the desktop version of VS Code. In the browser IDE, open the Command Palette (**Ctrl+Shift+P** on Windows or **Cmd+Shift+P** on macOS) and select **Codespaces: Open in VS Code**. Follow any prompts to install the GitHub Codespaces extension and sign in to GitHub. Your files and tools remain in the cloud-hosted codespace; only the editor runs locally.
+
+When you finish working, stop the codespace from the [GitHub Codespaces page](https://github.com/codespaces) to avoid unnecessary compute usage.
 
 # License
 This repository is licensed under MIT license. More info can be found [here](https://github.com/Microsoft/WhatTheHack/blob/master/LICENSE).
